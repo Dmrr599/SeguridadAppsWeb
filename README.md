@@ -1,7 +1,7 @@
 # SeguridadAppsWeb
 Repositorio para proyecto de clase
 
--Nombre del proyecto:
+-Nombre del proyecto: sistema de usuarios
 
 -Integrantes del equipo:
   -Diana Marina Roldán Ríos
