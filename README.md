@@ -12,6 +12,8 @@ Repositorio para proyecto de clase
 -Objetivo del proyecto: Desarrollar un sistema con una base de datos unificada, que maneje todo el inventario de los bienes de la institución
  
 -Tipos de usuarios:
+  -Usuario estandar
+  -Usuario administrador
  
 -Funcionalidades:
   -Registro de usuarios
