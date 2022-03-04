@@ -1,7 +1,7 @@
 # SeguridadAppsWeb
 Repositorio para proyecto de clase
 
--Nombre del proyecto: sistema de usuarios
+-Nombre del proyecto: Gestor de inventarios.
 
 -Integrantes del equipo:
   -Diana Marina Roldán Ríos
