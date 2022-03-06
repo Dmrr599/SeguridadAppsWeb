@@ -27,5 +27,8 @@ Repositorio para proyecto de clase
       Borrar registros
  
 -Entorno de desarrollo:
-  -VisualStudio Code
+  -Visual Studio Code
+  -Node.js
+  -Material Design
+  -Angular
  
