@@ -26,9 +26,11 @@ Repositorio para proyecto de clase
       Actualizar registros
       Borrar registros
  
--Entorno de desarrollo:
-  -Visual Studio Code
-  -Node.js
-  -Material Design
-  -Angular
+-Entorno de desarrollo: 
+	-Visual Studio Code 
+	-Material Design de Angular
+	-Angular
+	-MySql
+	-Xampp
+
  
