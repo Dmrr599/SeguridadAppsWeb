@@ -9,7 +9,7 @@ Repositorio para proyecto de clase
   -Daniel Gutiérrez Melendez
   -Eder Ulises Pérez Jácome
   
--Objetivo del proyecto: Desarrollar un sistema con una base de datos unificada, que maneje todo el inventario de los bienes de la institución
+-Objetivo del proyecto: Desarrollar un sistema que permita agendar citas en las diferentes áreas que conforman servicios escolares.
  
 -Tipos de usuarios:
   -Usuario estandar
