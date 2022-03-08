@@ -1,7 +1,7 @@
 # SeguridadAppsWeb
 Repositorio para proyecto de clase
 
--Nombre del proyecto: Gestor de inventarios.
+-Nombre del proyecto: Citas On-Line UTXJ
 
 -Integrantes del equipo:
   -Diana Marina Roldán Ríos
