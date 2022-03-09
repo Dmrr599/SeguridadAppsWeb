@@ -16,15 +16,15 @@ Repositorio para proyecto de clase
   -Usuario administrador
  
 -Funcionalidades:
-  -Registro de usuarios
-  -Administración de usuarios
-  -Generar reporte de inventario
-  -Establecer responsables
-  -CRUD - Operaciones fundamentales de aplicaciones persistentes en sistemas de bases de datos:
-      Crear registros
-      Leer registros
-      Actualizar registros
-      Borrar registros
+  -Agendar citas en línea
+  -Registro de usuarios 
+  -Administración de usuarios 
+  -Establecer responsables 
+	-CRUD Operaciones fundamentales de aplicaciones persistentes en sistemas de bases de datos: 
+		Crear registros 
+		Leer registros 
+		Actualizar registros 
+		Borrar registros
  
 -Entorno de desarrollo: 
 	-Visual Studio Code 
